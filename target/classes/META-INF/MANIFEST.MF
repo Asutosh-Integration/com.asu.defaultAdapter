@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1651400978464
+Build-Jdk: 17.0.2
+Built-By: asutoshmaharana
+Bundle-ManifestVersion: 2
+Bundle-Name: com.asu.adpaterLearning.com.asu.defaultAdapter
+Bundle-SymbolicName: com.asu.adpaterLearning.com.asu.defaultAdapter
+Bundle-Version: 1.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: com.asu.adpaterLearning;uses:="org.apache.camel,org.apac
+ he.camel.impl,org.apache.camel.spi";version="1.0.0.SNAPSHOT"
+Import-Package: org.apache.camel,org.apache.camel.impl,org.apache.camel.
+ spi,org.slf4j
+Tool: Bnd-2.1.0.20130426-122213
